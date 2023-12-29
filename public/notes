@@ -1,0 +1,57 @@
+V3=ضيفنا التيمبليت لل HOME PAGE.
+
+V4=aDmin templete view=====>>>>>>>>>>>>>>>>
+        INTEGRATE aDmin templete to OUR ADMIN DASHBOARD.كل حاجه في صفحة الانديكس هنحطها في فيو الادمن
+        ونعدل السي اس اس اننا نضيف قبل التشريف admin/.and script..
+===>>>>>
+
+V5=ADD PRODUCT FROM ADMIN DASHBOARD .
+v6==>take cat from database ((controller admin))added category data
+v7==>add the PRODUCT data from admin panel
+هنعمل جدول ومودلالبرودكات ونضيف فيه الاعمده
+لما نكون فيه فايل زي الصوره بنيف علي الفورم enctype="multiple/form-data"
+Method="post"علشان عاوزين نابلود الداتا من الداتا بيز
+الاكشن فيه اليو ار ال
+Request $request==بيجيب الداتا من الفورم lfrom product table.
+
+v8===Show Product In Admin Panel
+v9===Delete & Update Product Data
+بنستخدم السنجل براكت ع ''نطبع الداتا في لارافيل
+v10===Show Product Data from db to UserPage
+هنفتح البروداكت من الهوم ونمسح ك كل التكرر ونسيب واحد بس.
+انكلود صفحة البروداكت في صفحة اليوزر وفي الكنترول هنلاقي الهوم بتاع اليوز بيدج
+V11=>
+لو ضغطنا علي المنتج هيودينا للديتيلز بتاعه
+
+V12=>let user add product to cart بعدين يقدر يشتري البروداكت
+لما يضغط علي اد تو كارت هيشوف و هو لوجين هيضيفو لو مش مسجل هيقةلة سجل دخول
+V14=>
+اضافة زرار طلب الاوردر ويظهر وسايل الدفع المختلفه كاش بي بال كارد لما ياكد الاوردر هيتضاف لجدول تاني+cart
+create order table هنحط فيه اليوزر والبروداكت داتا
+MOve cart data to order table///
+V15=>product should move to the order table.real payment نستخدم api and test data in dashboard.view data all u need t active ur account with the same code.
+لما يضغط علي زرار الكارد هيجب معلومات الكار]
+V16==>show order data in admin panel.
+create view to  the  order page.
+let admin see all the order product that customer added
+resource view admin نضيف add.
+admin can see all the pro order by customer 
+V17=>make button to change deliver status.
+ Update Delivery & Payment Status.
+ V18= Download / Print PDF File In Laravel
+ -config/app.php (providers & aliases).
+ V19=email verivaction when user register or login
+ change in .env
+ V20==>Send Email Notification
+ V21==>make search in laravel.
+ V22==>Show & Cancel Order Product for Customer.
+ make customer show his or her order from its account and if he want to cancel or delete this order make it.
+;  show specific order to spesfic user
+V23=>make user see order and can cancel order.
+V24=>comment and reply system .make deesign use js then code od comment and reply 2 table
+php artisan make:model Comment -m(model and migrate it in the same time)
+V25==>
+V27=?
+sweet alert message in laravel.
+
+V28==>share project to share hosting (cpanel)server
